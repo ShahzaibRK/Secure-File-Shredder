@@ -1,0 +1,23 @@
+Starting to overwrite file: D:\fg-01.bin with 3 passes.
+Pass 1 of 3 started.
+Pass 1 of 3 completed.
+Pass 2 of 3 started.
+Pass 2 of 3 completed.
+Pass 3 of 3 started.
+Pass 3 of 3 completed.
+Final pass: Overwriting D:\fg-01.bin with zeros started.
+Final pass of overwriting D:\fg-01.bin completed.
+File overwrite completed successfully for: D:\fg-01.bin
+Preparing to securely delete file: D:\fg-02.bin
+Starting to overwrite file: D:\fg-02.bin with 3 passes.
+Pass 1 of 3 started.
+Pass 1 of 3 completed.
+Pass 2 of 3 started.
+Pass 2 of 3 completed.
+Pass 3 of 3 started.
+Pass 3 of 3 completed.
+Final pass: Overwriting D:\fg-02.bin with zeros started.
+Final pass of overwriting D:\fg-02.bin completed.
+File overwrite completed successfully for: D:\fg-02.bin
+File renamed for secure deletion: D:\fg-02.bin to D:\fg-02.bin.sdBWd509kG
+File securely deleted: D:\fg-02.bin
